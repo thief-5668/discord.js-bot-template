@@ -3,7 +3,7 @@ module.exports = {
   Prefix: "?",
 
   Users: {
-    OWNERS: ["YOUR USER ID", "OTHER OWNER ID"]
+    OWNERS: ["YOUR USER ID", "OTHER OWNER ID"] // copy this and paste it in the bracets to add another ID {, "ID HERE"}
   },
 
   Handlers: {
