@@ -2,7 +2,7 @@ const { Client, Partials, Collection, GatewayIntentBits } = require('discord.js'
 const config = require('./config/config');
 const colors = require("colors");
 
-// Creating a new client:
+// Creating a new client
 const client = new Client({
   intents: [
     GatewayIntentBits.Guilds,
